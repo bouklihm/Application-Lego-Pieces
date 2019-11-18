@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<players>
+    <player id="1">
+        <name>Marouan Boukli</name>
+        <goals>5</goals>
+    </player>
+    <not-a-player>
+        <foo>Bar</foo>
+    </not-a-player>
+<!--  i am a comment  -->
+</players>
